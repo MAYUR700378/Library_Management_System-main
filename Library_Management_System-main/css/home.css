@@ -1,0 +1,16 @@
+
+
+body{
+    background-image: url(images/Wiki-background.jpg);
+}
+.box a{
+    text-decoration: none;
+    font-style: italic;
+    color: rgb(0, 0, 0);
+}
+
+h1{
+    font-style: italic;
+    color: red;
+    text-shadow: black;
+}
